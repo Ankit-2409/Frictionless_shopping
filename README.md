@@ -43,5 +43,5 @@ Overall, the goal of frictionless technology is to remove as many barriers as po
 ## Authors
 
 - [Arnav](https://www.github.com/Arnav131003)
-- [Ankit]()
+- [Ankit](https://github.com/Ankit-2409)
 - [Pratham](https://github.com/pratham-agarwalla)
